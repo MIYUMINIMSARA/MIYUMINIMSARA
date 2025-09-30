@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;FullStack+Developer;Open+Source+Contributor;Building+Amazing+Web+Experiences;Passionate+about+Clean+Code;Always+Learning+Something+New!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Business+Intelligence+Student;Business+Analyst;Open+Source+Contributor;Building+Amazing+Web+Experiences;Passionate+about+Clean+Code;Always+Learning+Something+New!" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -55,7 +55,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MIYUMINIMSARA&theme=tokyo-night&hide_border=true&custom_title=Menuki's%20GitHub%20Activity%20Graph" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MIYUMINIMSARA&theme=tokyo-night&hide_border=true&custom_title=Miyumi's%20GitHub%20Activity%20Graph" alt="Contribution Graph" />
 </div>
 
 <h3 align="center">Featured Projects</h3>
